@@ -1,0 +1,11 @@
+com\usa\reto\uno\model\Clothe.class
+com\usa\reto\uno\service\ClothesService.class
+com\usa\reto\uno\model\User.class
+com\usa\reto\uno\repository\crud\UserCrudRepository.class
+com\usa\reto\uno\repository\UserRepository.class
+com\usa\reto\uno\service\UserService.class
+com\usa\reto\uno\controller\ClothesController.class
+com\usa\reto\uno\UnoApplication.class
+com\usa\reto\uno\repository\crud\IClotheCrudRepository.class
+com\usa\reto\uno\controller\UserController.class
+com\usa\reto\uno\repository\ClotheRepository.class
